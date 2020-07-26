@@ -1,2 +1,2 @@
 # Machine-Learning
-All I want to share about machine learning
+Machine learning homeworks in ML course, University of Southampton
